@@ -40,7 +40,7 @@
                                 <rect key="frame" x="135" y="481" width="104" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                <state key="normal" title="Green"/>
+                                <state key="normal" title="blue"/>
                                 <connections>
                                     <action selector="btnG:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y3k-Kf-LBC"/>
                                 </connections>

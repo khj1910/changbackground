@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func btnG(_ sender: Any) {
-        self.view.backgroundColor = UIColor.green
+        self.view.backgroundColor = UIColor.blue
     }
 }
 
